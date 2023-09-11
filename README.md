@@ -1,4 +1,6 @@
-### Hi there 👋 im now using [Gitlab](https://gitlab.com/Simerax)
+### Hi there 👋 im not really using Github anymore.
+
+Find me on [Gitlab](https://gitlab.com/Simerax) or [Codeberg](https://codeberg.org/Xaver)
 
 <!--
 **Simerax/Simerax** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
